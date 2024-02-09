@@ -1,0 +1,21 @@
+.off-canvas-container {
+    position: fixed;
+    bottom: -100%; /* Start off-screen */
+    left: 0;
+    width: 100%;
+    height: 300px; /* Set the height according to your design */
+    background-color: #fff;
+    transition: bottom 0.3s ease-out;
+    z-index: 999;
+  }
+  
+  .off-canvas-container.visible {
+    bottom: 0;
+  }
+  
+  .off-canvas-content {
+    padding: 20px;
+  }
+  
+  /* Add any other styling you need for your off-canvas component */
+  

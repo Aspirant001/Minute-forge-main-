@@ -1,0 +1,48 @@
+/* .HomePage1{
+  background-color: black;
+  color: black;
+}
+body.HomePage1{
+  background-color: aqua;
+}
+.meet-container{
+  background-color: aquamarine;
+}
+  .app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .profile-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .profile-header {
+    margin-bottom: 20px;
+  }
+  
+  .avatar {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .profile-details {
+    text-align: center;
+  }
+  
+  .detail {
+    margin-bottom: 10px;
+  }
+  
+  .container{
+    color: aquamarine;
+  } */

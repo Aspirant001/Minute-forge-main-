@@ -1,0 +1,191 @@
+.loginsignup{
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    height: 100vh;
+    background: url('pngegg.png') no-repeat;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-color: rgba(255, 255, 255, 0.816); 
+    /* background-image: url(
+"https://media.geeksforgeeks.org/wp-content/uploads/rk.png"
+    );
+    background-size: "cover";
+    height: 100vh;
+    margin-top: -70px;
+    font-size: 50px;
+    background-repeat: no-repeat; */
+}
+   
+
+  .homepage{
+    background: linear-gradient(-45deg, #1e5799, #2989d8, #7db9e8, #1e5799);
+  background-size: 400% 400%;
+  animation: gradientAnimation 15s infinite alternate;
+  color: #fff;
+  }
+  .logo {
+    width: 300px;
+    margin-top: -80px;
+    font-size: xx-large;
+    width: max-content;
+    display: inline;
+    font-weight: bolder;
+    text-align: center;
+    font-family: monospace;
+    height: 300px;
+    padding-top: 50px;
+  }
+
+  .Heading{
+    font-size: xx-large;
+    width: max-content;
+    margin-top: -90px;
+    display: inline;
+    font-weight: bolder;
+    text-align: center;
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+    text-shadow: rgba(0, 0, 0, 0.328) 3px 3px;
+    
+}
+  
+  
+
+.container1{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 1px;
+    width: 600px;
+    background: #73656557;
+    /* padding-bottom: 6px; */
+    
+
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 9px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.text{
+    color: #3c009d;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.underline{
+    width: 61px;
+    height: 6px;
+    background: #3c009d;
+    border-radius: 9px;
+}
+
+.inputs{
+    margin-top: 55px;
+    padding-left: 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.input{
+    display: flex;
+    margin-bottom: -30px;
+    align-items: center;
+    /* margin: auto; */
+    width: 400px;
+    height: 80px;
+    background: #eaeaea;
+    border-radius: 6px;
+
+}
+
+.link-signup{
+    margin-left: 265px;
+}
+.link-signup1{
+    margin-top: -55px;
+}
+.link-signup2{
+    margin-left: 278px;
+    margin-bottom: 40px;
+}
+
+.input img{
+    margin: 0px 30px;
+}
+
+.input input{
+    height: 50px;
+    width: 400px;
+    margin-top: 20px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #797979ba;
+    font-size: 19px;
+}
+
+.forgot-password{
+    padding-left: 62px;
+        margin-top: 27px;
+    color: #797979;
+    font-size: 18px;
+}
+
+.forgot-password span{
+    color: #ffffff;
+    text-decoration: underline;
+    text-shadow: rgb(0, 0, 0);
+    
+    cursor: pointer;
+
+}
+
+.Already-a-Member{
+    padding-left: 62px;
+    margin-top: 27px;
+    color: #797979;
+    font-size: 18px;
+}
+
+.Already-a-Member span{
+    color: #4b00b4fc;
+    cursor: pointer;
+
+}
+
+.submit-container{
+    display: flex;
+    gap: 30px;
+    margin: 60px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 220px;
+    height: 59px;
+    color: #fff;
+    background: #4c00b4;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+
+.submit-gray{
+    background: #EAEAEA;
+    color: #676767;
+}
+
+
+
